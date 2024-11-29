@@ -9,3 +9,4 @@
 | Zaros Part 1       | Audit contest          | 1 Medium  | [📄](https://codehawks.cyfrin.io/c/2024-07-zaros/s/772)              |
 | TempleGold         | Audit contest          | 1 Low     | [📄](https://codehawks.cyfrin.io/c/2024-07-templegold/s/486)         |
 | LoopFi             | Audit contest          | 1 Low     | Pending ⏳                                                           |
+| StakeUp             | Audit contest          | 1 Low     | Pending ⏳                                                           |
