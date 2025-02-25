@@ -10,3 +10,5 @@
 | TempleGold         | Audit contest          | 1 Low     | [📄](https://codehawks.cyfrin.io/c/2024-07-templegold/s/486)         |
 | LoopFi             | Audit contest          | 1 Low     | Pending ⏳                                                           |
 | StakeUp             | Audit contest          | 1 Low     | Pending ⏳                                                           |
+| Daao / daao-contracts | Audit contest       | 1 Medium   | Pending ⏳                                                         |
+
